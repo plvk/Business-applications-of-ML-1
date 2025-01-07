@@ -1,1 +1,5 @@
-# Business-applications-of-ML-1
+# Домашнее задание по Бизнес-применению машинного обучения
+
+Запуск:
+1. Построение образа контейнера: docker-compose build
+2. Запуск контейнера: docker-compose up -d

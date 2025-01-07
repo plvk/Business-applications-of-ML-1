@@ -1,0 +1,9 @@
+plot is alive 
+Plotter restarted
+Начато отслеживание изменений в ./logs/metric_log.csv
+./logs/metric_log.csv изменен. Перестроение гистограммы
+Гистограмма сохранена в ./logs/error_distribution.png
+./logs/metric_log.csv изменен. Перестроение гистограммы
+Гистограмма сохранена в ./logs/error_distribution.png
+./logs/metric_log.csv изменен. Перестроение гистограммы
+Гистограмма сохранена в ./logs/error_distribution.png
